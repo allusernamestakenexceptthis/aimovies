@@ -1,5 +1,5 @@
 # GitHub Action for Laravel
-name: Testing Filmsdb
+name: Testing Aimovies
 on: [push, pull_request]
 jobs:
   laravel:
