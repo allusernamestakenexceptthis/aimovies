@@ -1,10 +1,10 @@
-<p align="center"><a href="#" target="_blank"><img src="public/images/aimovies.svg.svg" width="400" alt="Aimovies"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="public/images/aimovies.svg" width="400" alt="Aimovies"></a></p>
 
-<p align="center">
+<div align="center">
 
-[![Testing Aimovies](https://github.com/allusernamestakenexceptthis/actions/workflows/laravel.yml/badge.svg)](https://github.com/allusernamestakenexceptthis/actions/workflows/laravel.yml)
+[![Testing Aimovies](https://github.com/allusernamestakenexceptthis/aimovies/actions/workflows/laravel.yml/badge.svg)](https://github.com/allusernamestakenexceptthis/aimovies/actions/workflows/laravel.yml)
 
-</p>
+</div>
 
 # Aimovies (Scaffold version, it doesn't do anything yet)
 
